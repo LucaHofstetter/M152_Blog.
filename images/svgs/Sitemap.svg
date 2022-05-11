@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="3513" height="1080" viewBox="0 0 3513 1080">
+  <defs>
+    <clipPath id="clip-Sitemap">
+      <rect width="3513" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Sitemap" clip-path="url(#clip-Sitemap)">
+    <rect width="3513" height="1080" fill="#2e3842"/>
+    <g id="Gruppe_6" data-name="Gruppe 6" transform="translate(1225 43.298)">
+      <rect id="Rechteck_6" data-name="Rechteck 6" width="368" height="109" transform="translate(420 118.702)" fill="rgba(29,36,42,0.9)"/>
+      <text id="Home" transform="translate(549 188.702)" fill="#fff" font-size="38" font-family="SegoeUI, Segoe UI" letter-spacing="0.084em"><tspan x="0" y="0">Home</tspan></text>
+    </g>
+    <g id="Gruppe_7" data-name="Gruppe 7" transform="translate(-5 267.298)">
+      <g id="Gruppe_8" data-name="Gruppe 8" transform="translate(5 -31)">
+        <rect id="Rechteck_6-2" data-name="Rechteck 6" width="368" height="109" transform="translate(420 118.702)" fill="rgba(29,36,42,0.9)"/>
+        <text id="Formate" transform="translate(525 188.702)" fill="#fff" font-size="38" font-family="SegoeUI, Segoe UI" letter-spacing="0.084em"><tspan x="0" y="0">Formate</tspan></text>
+      </g>
+    </g>
+    <g id="Gruppe_9" data-name="Gruppe 9" transform="translate(-5 460.298)">
+      <g id="Gruppe_8-2" data-name="Gruppe 8" transform="translate(5 -31)">
+        <rect id="Rechteck_6-3" data-name="Rechteck 6" width="368" height="109" transform="translate(420 118.702)" fill="rgba(29,36,42,0.9)"/>
+        <text id="Videoformate" transform="translate(472 188.702)" fill="#fff" font-size="38" font-family="SegoeUI, Segoe UI" letter-spacing="0.084em"><tspan x="0" y="0">Videoformate</tspan></text>
+      </g>
+    </g>
+    <g id="Gruppe_10" data-name="Gruppe 10" transform="translate(-380 447.298)">
+      <g id="Gruppe_8-3" data-name="Gruppe 8" transform="translate(5 -31)">
+        <g id="Gruppe_11" data-name="Gruppe 11" transform="translate(-17 13)">
+          <rect id="Rechteck_6-4" data-name="Rechteck 6" width="368" height="109" transform="translate(420 118.702)" fill="rgba(29,36,42,0.9)"/>
+          <text id="Bildformate" transform="translate(604 188.702)" fill="#fff" font-size="38" font-family="SegoeUI, Segoe UI" letter-spacing="0.084em"><tspan x="-113.335" y="0">Bildformate</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Gruppe_12" data-name="Gruppe 12" transform="translate(387 460.298)">
+      <g id="Gruppe_8-4" data-name="Gruppe 8" transform="translate(5 -31)">
+        <rect id="Rechteck_6-5" data-name="Rechteck 6" width="368" height="109" transform="translate(420 118.702)" fill="rgba(29,36,42,0.9)"/>
+        <text id="Audioformate" transform="translate(471 188.702)" fill="#fff" font-size="38" font-family="SegoeUI, Segoe UI" letter-spacing="0.084em"><tspan x="0" y="0">Audioformate</tspan></text>
+      </g>
+    </g>
+    <g id="Gruppe_13" data-name="Gruppe 13" transform="translate(1220 267.298)">
+      <g id="Gruppe_8-5" data-name="Gruppe 8" transform="translate(5 -31)">
+        <rect id="Rechteck_6-6" data-name="Rechteck 6" width="368" height="109" transform="translate(420 118.702)" fill="rgba(29,36,42,0.9)"/>
+        <text id="Rechte" transform="translate(420 147.702)" fill="#fff" font-size="38" font-family="SegoeUI, Segoe UI" letter-spacing="0.084em"><tspan x="119.373" y="41">Rechte</tspan></text>
+      </g>
+    </g>
+    <g id="Gruppe_14" data-name="Gruppe 14" transform="translate(1225 255.298)">
+      <g id="Komponente_1_1" data-name="Komponente 1 – 1" transform="translate(420 292.702)">
+        <rect id="Rechteck_7" data-name="Rechteck 7" width="368" height="109" fill="rgba(29,36,42,0.9)"/>
+        <text id="Impressum" transform="translate(0 29)" fill="#fff" font-size="38" font-family="SegoeUI, Segoe UI" letter-spacing="0.084em"><tspan x="78.857" y="41">Impressum</tspan></text>
+      </g>
+    </g>
+    <g id="Komponente_1_2" data-name="Komponente 1 – 2" transform="translate(2037 548)">
+      <rect id="Rechteck_7-2" data-name="Rechteck 7" width="368" height="109" fill="rgba(29,36,42,0.9)"/>
+      <text id="DSGVO" transform="translate(0 29)" fill="#fff" font-size="38" font-family="SegoeUI, Segoe UI" letter-spacing="0.084em"><tspan x="115.875" y="41">DSGVO</tspan></text>
+    </g>
+    <g id="Komponente_1_3" data-name="Komponente 1 – 3" transform="translate(1253 548)">
+      <rect id="Rechteck_7-3" data-name="Rechteck 7" width="368" height="109" fill="rgba(29,36,42,0.9)"/>
+      <text id="Urheberrechte" transform="translate(0 29)" fill="#fff" font-size="38" font-family="SegoeUI, Segoe UI" letter-spacing="0.084em"><tspan x="44.345" y="41">Urheberrechte</tspan></text>
+    </g>
+    <line id="Linie_9" data-name="Linie 9" x1="208" y2="139" transform="translate(1437.5 409.5)" fill="none" stroke="#fff" stroke-width="3"/>
+    <line id="Linie_10" data-name="Linie 10" y2="84" transform="translate(1829.5 464.5)" fill="none" stroke="#fff" stroke-width="3"/>
+    <line id="Linie_11" data-name="Linie 11" x1="208" y1="139" transform="translate(2013.5 409.5)" fill="none" stroke="#fff" stroke-width="3"/>
+    <line id="Linie_13" data-name="Linie 13" x1="1041" y2="139" transform="translate(604.5 216.5)" fill="none" stroke="#fff" stroke-width="3"/>
+    <line id="Linie_14" data-name="Linie 14" y2="84" transform="translate(1829.5 271.5)" fill="none" stroke="#fff" stroke-width="3"/>
+    <line id="Linie_15" data-name="Linie 15" x1="208" y2="139" transform="translate(212 401)" fill="none" stroke="#fff" stroke-width="3"/>
+    <line id="Linie_16" data-name="Linie 16" x1="208" y1="139" transform="translate(788 409.5)" fill="none" stroke="#fff" stroke-width="3"/>
+    <line id="Linie_17" data-name="Linie 17" y2="84" transform="translate(604 464)" fill="none" stroke="#fff" stroke-width="3"/>
+    <g id="Gruppe_15" data-name="Gruppe 15" transform="translate(1220 267.298)">
+      <g id="Gruppe_8-6" data-name="Gruppe 8" transform="translate(5 -31)">
+        <rect id="Rechteck_6-7" data-name="Rechteck 6" width="368" height="109" transform="translate(420 118.702)" fill="rgba(29,36,42,0.9)"/>
+        <text id="Rechte-2" data-name="Rechte" transform="translate(420 147.702)" fill="#fff" font-size="38" font-family="SegoeUI, Segoe UI" letter-spacing="0.084em"><tspan x="119.373" y="41">Rechte</tspan></text>
+      </g>
+    </g>
+    <g id="Komponente_1_4" data-name="Komponente 1 – 4" transform="translate(2259 356)">
+      <rect id="Rechteck_7-4" data-name="Rechteck 7" width="368" height="109" fill="rgba(29,36,42,0.9)"/>
+      <text id="Animationen" transform="translate(0 29)" fill="#fff" font-size="38" font-family="SegoeUI, Segoe UI" letter-spacing="0.084em"><tspan x="60.785" y="41">Animationen</tspan></text>
+    </g>
+    <g id="Komponente_1_5" data-name="Komponente 1 – 5" transform="translate(2689 356)">
+      <rect id="Rechteck_7-5" data-name="Rechteck 7" width="368" height="109" fill="rgba(29,36,42,0.9)"/>
+      <text id="Styling" transform="translate(0 29)" fill="#fff" font-size="38" font-family="SegoeUI, Segoe UI" letter-spacing="0.084em"><tspan x="118.166" y="41">Styling</tspan></text>
+    </g>
+    <line id="Linie_18" data-name="Linie 18" x1="410" y1="131" transform="translate(2013.5 216.5)" fill="none" stroke="#fff" stroke-width="3"/>
+    <line id="Linie_19" data-name="Linie 19" x1="860" y1="131" transform="translate(2013 217)" fill="none" stroke="#fff" stroke-width="3"/>
+    <g id="Komponente_1_6" data-name="Komponente 1 – 6" transform="translate(2466 549)">
+      <rect id="Rechteck_7-6" data-name="Rechteck 7" width="368" height="109" fill="rgba(29,36,42,0.9)"/>
+      <text id="Wireframes" transform="translate(0 29)" fill="#fff" font-size="38" font-family="SegoeUI, Segoe UI" letter-spacing="0.084em"><tspan x="74.163" y="41">Wireframes</tspan></text>
+    </g>
+    <g id="Komponente_1_7" data-name="Komponente 1 – 7" transform="translate(2915 549)">
+      <rect id="Rechteck_7-7" data-name="Rechteck 7" width="368" height="109" fill="rgba(29,36,42,0.9)"/>
+      <text id="Sitemap-2" data-name="Sitemap" transform="translate(0 29)" fill="#fff" font-size="38" font-family="SegoeUI, Segoe UI" letter-spacing="0.084em"><tspan x="106.152" y="41">Sitemap</tspan></text>
+    </g>
+    <line id="Linie_21" data-name="Linie 21" x2="225" y2="84" transform="translate(2874 464)" fill="none" stroke="#fff" stroke-width="3"/>
+    <line id="Linie_22" data-name="Linie 22" x1="223" y2="83" transform="translate(2650.5 465.5)" fill="none" stroke="#fff" stroke-width="3"/>
+    <g id="Komponente_1_8" data-name="Komponente 1 – 8" transform="translate(2690 709)">
+      <rect id="Rechteck_7-8" data-name="Rechteck 7" width="368" height="109" fill="rgba(29,36,42,0.9)"/>
+      <text id="Sitemap-3" data-name="Sitemap" transform="translate(0 29)" fill="#fff" font-size="38" font-family="SegoeUI, Segoe UI" letter-spacing="0.084em"><tspan x="106.152" y="41">Sitemap</tspan></text>
+    </g>
+    <line id="Linie_23" data-name="Linie 23" x2="0.5" y2="244" transform="translate(2874 465.5)" fill="none" stroke="#fff" stroke-width="3"/>
+  </g>
+</svg>
